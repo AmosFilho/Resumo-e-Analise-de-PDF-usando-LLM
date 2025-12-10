@@ -16,7 +16,7 @@ Este projeto é uma ferramenta para **processamento automático de arquivos PDF*
 
 - Extrair **imagens** de PDFs  
 - Extrair **texto** página a página  
-- Gerar **resumos automáticos** usando um modelo local (Qwen-1.7B) 
+- Gerar **resumos automáticos** usando um modelo local (Qwen3-4B) 
 - Indentificar **Título** e **Seções** de um documento pdf.
 - Criar arquivos de relatório em formato `.md`  
 - Registrar **logs unificados** para depuração e auditoria  
