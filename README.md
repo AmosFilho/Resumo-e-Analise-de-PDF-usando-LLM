@@ -2,7 +2,7 @@
 
 ## Como rodar o código
 1. Instale as dependência do projeto com o comando `pip install -r config/requirements.txt`
-2. Baixe o modelo LLLM **Qwen-4B** com o comando `python llm/import_moldel.py`
+2. Baixe o modelo LLLM **Qwen-4B** com o comando `python llm/import_model.py`
 3. Adicione os arquivos que serão analisados a pasta cli/pdf_files
 4. Inicialize o programa no terminal utilizando o comando `python main.py cli/pdf_files/nome_do_arquivo.pdf`.
 
